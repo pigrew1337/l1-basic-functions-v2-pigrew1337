@@ -21,7 +21,8 @@ export const isEven = (num) => (num % 2 === 0);
    // const j = typeof(value);
   //  return j;
 //}
-
+jkhhgjhfgjfjfjf
+dfgdfgdfgdfg
 export const checkType = (value) => typeof (value);
 
 //const glas = ['e', 'E', 'y', 'Y', 'u', 'U', 'i', 'I', 'o', 'O', 'a', 'A'];
